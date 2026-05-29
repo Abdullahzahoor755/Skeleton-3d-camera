@@ -87,8 +87,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Abdullahzahoor/Skeleton-3d-camera.git
-cd visionx-ai
-```
+cd Skeleton-3d-camera```
 
 Install dependencies:
 
