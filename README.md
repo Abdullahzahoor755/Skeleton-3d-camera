@@ -86,7 +86,7 @@ Advanced camera utilities powered by AI.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/visionx-ai.git
+git clone https://github.com/Abdullahzahoor/Skeleton-3d-camera.git
 cd visionx-ai
 ```
 
